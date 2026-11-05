@@ -52,7 +52,7 @@ nc 127.0.0.1 7777
 
 ### Сборка и запуск:
 ```bash
-cd ../echo
+cd ../echo-client
 make
 ./echo_client
 ```
